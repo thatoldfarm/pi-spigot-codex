@@ -67,7 +67,7 @@ Clone or download the repository, then place a `.txt` file of π digits (e.g., `
 Basic run:
 
 ```bash
-python3 pi-lattice-explorer-stream.py --pi-file pi-10million.txt
+python3 pi-lattice-explorer.py --pi-file pi-10million.txt
 ```
 
 ---
@@ -116,7 +116,7 @@ python3 pi-lattice-explorer-stream.py --pi-file pi-10million.txt
 ### Dry Run (2M digits, network viz, limited positions)
 
 ```bash
-python3 pi-lattice-explorer-stream.py \
+python3 pi-lattice-explorer.py \
   --pi-file pi-10million.txt \
   --limit 2000000 \
   --top-per-length 300 \
@@ -128,7 +128,7 @@ python3 pi-lattice-explorer-stream.py \
 ### Spiral Visualization (top 50 candidates)
 
 ```bash
-python3 pi-lattice-explorer-stream.py \
+python3 pi-lattice-explorer.py \
   --pi-file pi-10million.txt \
   --viz spiral \
   --viz-limit 50
