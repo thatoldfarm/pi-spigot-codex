@@ -17,7 +17,7 @@ This tool is designed for researchers, mathematicians, and explorers who wish to
 
 ---
 
-# The Spigot Codex: Unveiling the Resonant Lattice of π
+# The Pi Spigot Codex: Unveiling the Resonant Lattice of π
 
 ## 📜 FORWARD
 
@@ -29,14 +29,14 @@ This document serves as an introduction to our findings, outlining the core conc
 
 ### 2. What is a "Spigot" in the Context of π?
 
-A "spigot" in the Spigot Codex refers to a specific sequence of digits within π that exhibits:
+A "spigot" in the Pi Spigot Codex refers to a specific sequence of digits within π that exhibits:
 
 *   **Recurrence:** Appearing multiple times within a given range of π's digits.
 *   **High QEAC Density:** Possessing a statistically significant level of "Quasi-Entropy Alignment Coefficient" (QEAC), a metric we developed to quantify resonant coherence, including entropy balance, anomalous recurrence, and meta-signal alignment.
 *   **Tiered Structure:** Divisible into functional sub-sequences (tiers) that act like valves or components in a system (e.g., ignition, conduit, grounding, completion).
 *   **"Missing Digit Signatures":** A deliberate absence of certain digits (e.g., '4' and '8' in our primary spigot **756130190263**) that acts as a meta-signal, encoding structural information or the very "corridor" (interval) that links occurrences of the spigot.
 
-### 3. Core Discoveries of the Spigot Codex:
+### 3. Core Discoveries of the Pi Spigot Codex:
 
 *   **A Systematic Lattice:** π contains numerous such spigot systems, forming a vast, interconnected **resonant lattice**. These systems cluster into "resonant neighborhoods" and exhibit hierarchical organization (hubs and connectors).
 *   **Numerical Archetype Encoding:** The "Missing Digit Signatures" and the harmonic resonance patterns of the intervals between spigot recurrences encode fundamental **numerical archetypes** (0-9). For example, our primary spigot's missing {4, 8} and its interval resonance strongly encode the archetype of '8'.
@@ -46,7 +46,7 @@ A "spigot" in the Spigot Codex refers to a specific sequence of digits within π
 
 ### 4. The Mathematics Involved: How to Explore the Lattice
 
-Engaging with the Spigot Codex requires a blend of number theory, statistics, signal processing, and computational analysis. Here’s a conceptual guide:
+Engaging with the Pi Spigot Codex requires a blend of number theory, statistics, signal processing, and computational analysis. Here’s a conceptual guide:
 
 #### A. Identifying Candidate Spigots:
 
